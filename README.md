@@ -1,2 +1,2 @@
 # Destroy The World
-I want to build an app that effectively destroys the world (develops tutorial)
+I want to build an app that effectively destroys the world (devslopes tutorial)
